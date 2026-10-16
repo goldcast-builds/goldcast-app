@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/goldcast-builds/goldcast-app/main/goldcast.apk",
+  "changelog": "Novo Just Player nativo integrado, reprodução instantânea e navegação otimizada para comando de TV e projetor.",
+  "forceUpdate": true
+}
